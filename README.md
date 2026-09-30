@@ -1,4 +1,4 @@
-#  SufeCares-SQL 校园美食推荐系统
+#SufeCares-SQL 校园美食推荐系统
 
 <div align="center">
   <img src="WindowsApp7/WindowsApp7/Resources/logo与背景.png" alt="项目Logo" width="1000"/>
